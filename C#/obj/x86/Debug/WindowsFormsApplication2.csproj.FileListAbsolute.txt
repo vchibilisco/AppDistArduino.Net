@@ -1,0 +1,19 @@
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+c:\documents and settings\chris\my documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+\\VICENTE-AW8\Users\Vicente\Downloads\FRPSE4ZGA1BD540\C#\obj\x86\Debug\WindowsFormsApplication2.exe
+\\VICENTE-AW8\Users\Vicente\Downloads\FRPSE4ZGA1BD540\C#\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Mis documentos\EjemploBlue\C#\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Mis documentos\EjemploBlue\C#\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Mis documentos\EjemploBlue\C#\bin\Debug\WindowsFormsApplication2.exe
+D:\Mis documentos\EjemploBlue\C#\bin\Debug\WindowsFormsApplication2.pdb
+D:\Mis documentos\EjemploBlue\C#\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Mis documentos\EjemploBlue\C#\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\Mis documentos\EjemploBlue\C#\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Mis documentos\EjemploBlue\C#\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
